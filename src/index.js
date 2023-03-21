@@ -1,4 +1,5 @@
-import './styles.css';
+import './scss/styles.scss';
+import './img/Bills.jpg';
 
 const title = document.querySelector('.title');
 
